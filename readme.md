@@ -24,8 +24,8 @@ The Image Resizer is a Python script that allows users to batch resize images in
 1. **Place the Script:** Download resizeImages.py and place it in a directory of your choice.
 
 2. **Run the Script:** Open a terminal and navigate to the directory where the script is located. Run the script using the following command:
-  ```bash
-  python3 resizeImages.py <path_to_image_folder> <max_width>
-  ```
-  **<path_to_image_folder>:** The path to the folder containing the images you want to resize.
-  **<max_width>:** The maximum width (in pixels) for the images. Images wider than this will be resized.
+   ```bash
+   python3 resizeImages.py <path_to_image_folder> <max_width>
+   ```
+   **<path_to_image_folder>:** The path to the folder containing the images you want to resize.
+   **<max_width>:** The maximum width (in pixels) for the images. Images wider than this will be resized.
